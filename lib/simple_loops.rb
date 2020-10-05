@@ -17,3 +17,8 @@ def output_array(array)
     counter += 1
   end
 end
+
+def return_string_array(array)
+  array.each do 
+    puts i.to_s
+end
