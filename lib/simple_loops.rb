@@ -20,6 +20,6 @@ end
 
 def return_string_array(array)
   array.each do |i|
-    puts i.to_s
+    p i.to_s
   end
 end
